@@ -1,6 +1,6 @@
 SetupOrgScript script = new SetupOrgScript();
-//script.clearSampleData();
-//script.scheduleBusMaintenanceBatch();
+script.clearSampleData();
+script.scheduleBusMaintenanceBatch();
 
 //script.testExecuteBusMaintenanceBatch();
 //script.abortCronJobId();
