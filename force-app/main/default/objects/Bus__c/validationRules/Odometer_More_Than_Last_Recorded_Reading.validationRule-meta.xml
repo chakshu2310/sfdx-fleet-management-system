@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Odometer_More_Than_Last_Recorded_Reading</fullName>
+    <active>true</active>
+    <errorConditionFormula>Odometer_Reading__c &lt;  Recorded_Odometer__c</errorConditionFormula>
+    <errorDisplayField>Odometer_Reading__c</errorDisplayField>
+    <errorMessage>Odometer reading cannot be less than last recorded reading.</errorMessage>
+</ValidationRule>

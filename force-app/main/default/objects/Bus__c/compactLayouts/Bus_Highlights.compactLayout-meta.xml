@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bus_Highlights</fullName>
+    <fields>Name</fields>
+    <fields>Current_Status__c</fields>
+    <fields>Odometer_Reading__c</fields>
+    <fields>Maximum_Capacity__c</fields>
+    <fields>Has_Air_Conditioning__c</fields>
+    <fields>Resale_Value__c</fields>
+    <label>Bus Highlights</label>
+</CompactLayout>

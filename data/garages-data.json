@@ -1,0 +1,61 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage1Ref"
+            },
+            "Location__Longitude__s": -71.11095,
+            "Location__Latitude__s": 42.35663
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage2Ref"
+            },
+            "Location__Longitude__s": -71.31095,
+            "Location__Latitude__s": 42.35669
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage3Ref"
+            },
+            "Location__Longitude__s": 62.11095,
+            "Location__Latitude__s": 33.35669
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage4Ref"
+            },
+            "Location__Longitude__s": 62.31095,
+            "Location__Latitude__s": 33.66900
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage5Ref"
+            },
+            "Location__Longitude__s": -51.11095,
+            "Location__Latitude__s": -22.36863
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage6Ref"
+            },
+            "Location__Longitude__s": -51.21095,
+            "Location__Latitude__s": -22.56863
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage7Ref"
+            },
+            "Location__Longitude__s": -51.31095,
+            "Location__Latitude__s": -22.85663
+        }, {
+            "attributes": {
+                "type": "Garage__c",
+                "referenceId": "Garage8Ref"
+            },
+            "Location__Longitude__s": -51.41095,
+            "Location__Latitude__s": -22.96869
+        }
+    ]
+}

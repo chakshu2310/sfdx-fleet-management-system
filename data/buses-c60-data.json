@@ -1,0 +1,268 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus1_C60_Ref"
+            },
+            "Year__c": "2015",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "8000",
+            "Last_Location__Longitude__s": 61.11095,
+            "Last_Location__Latitude__s": 33.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01_tn.jpg",
+            "Garage__c": "@Garage1Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus2_C60_Ref"
+            },
+            "Year__c": "2010",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "20000",
+            "Recorded_Odometer__c": "15000",
+            "Last_Location__Longitude__s": -71.95895,
+            "Last_Location__Latitude__s": 42.47669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02_tn.jpg",
+            "Garage__c": "@Garage1Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus3_C60_Ref"
+            },
+            "Year__c": "2005",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "4000",
+            "Last_Location__Longitude__s": -71.50095,
+            "Last_Location__Latitude__s": 42.65869,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03_tn.jpg",
+            "Garage__c": "@Garage2Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus4_C60_Ref"
+            },
+            "Year__c": "2000",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "15000",
+            "Recorded_Odometer__c": "9999",
+            "Last_Location__Longitude__s": -49.99995,
+            "Last_Location__Latitude__s": -22.76863,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04_tn.jpg",
+            "Garage__c": "@Garage2Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus5_C60_Ref"
+            },
+            "Year__c": "1990",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "7500",
+            "Last_Location__Longitude__s": -51.91095,
+            "Last_Location__Latitude__s": -21.95663,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05_tn.jpg",
+            "Garage__c": "@Garage3Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus6_C60_Ref"
+            },
+            "Year__c": "1975",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "21000",
+            "Recorded_Odometer__c": "16001",
+            "Last_Location__Longitude__s": -61.00095,
+            "Last_Location__Latitude__s": 32.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01_tn.jpg",
+            "Garage__c": "@Garage3Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus7_C60_Ref"
+            },
+            "Year__c": "1970",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "50000",
+            "Recorded_Odometer__c": "45000",
+            "Last_Location__Longitude__s": 63.31095,
+            "Last_Location__Latitude__s": 34.66900,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02_tn.jpg",
+            "Garage__c": "@Garage4Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus8_C60_Ref"
+            },
+            "Year__c": "2014",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "4900",
+            "Last_Location__Longitude__s": 81.00095,
+            "Last_Location__Latitude__s": 52.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03_tn.jpg",
+            "Garage__c": "@Garage4Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus9_C60_Ref"
+            },
+            "Year__c": "1972",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "9500",
+            "Last_Location__Longitude__s": -70.31095,
+            "Last_Location__Latitude__s": 42.35669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04_tn.jpg",
+            "Garage__c": "@Garage5Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus10_C60_Ref"
+            },
+            "Year__c": "2019",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "5001",
+            "Last_Location__Longitude__s": -73.00095,
+            "Last_Location__Latitude__s": 41.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05_tn.jpg",
+            "Garage__c": "@Garage5Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus11_C60_Ref"
+            },
+            "Year__c": "1996",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "6500",
+            "Last_Location__Longitude__s": -50.90095,
+            "Last_Location__Latitude__s": -22.99999,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01_tn.jpg",
+            "Garage__c": "@Garage6Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus12_C60_Ref"
+            },
+            "Year__c": "2016",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "20000",
+            "Recorded_Odometer__c": "13000",
+            "Last_Location__Longitude__s": 62.90095,
+            "Last_Location__Latitude__s": 34.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-02_tn.jpg",
+            "Garage__c": "@Garage6Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus13_C60_Ref"
+            },
+            "Year__c": "1970",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "9000",
+            "Last_Location__Longitude__s": -70.00095,
+            "Last_Location__Latitude__s": 41.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-03_tn.jpg",
+            "Garage__c": "@Garage7Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus14_C60_Ref"
+            },
+            "Year__c": "2012",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "15000",
+            "Recorded_Odometer__c": "9000",
+            "Last_Location__Longitude__s": -51.99995,
+            "Last_Location__Latitude__s": -21.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-04_tn.jpg",
+            "Garage__c": "@Garage7Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus15_C60_Ref"
+            },
+            "Year__c": "1998",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "4500",
+            "Last_Location__Longitude__s": -61.00095,
+            "Last_Location__Latitude__s": 62.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-05_tn.jpg",
+            "Garage__c": "@Garage8Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus16_C60_Ref"
+            },
+            "Year__c": "2004",
+            "Number_Of_Wheels__c": 10,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "60",
+            "Odometer_Reading__c": "21000",
+            "Recorded_Odometer__c": "15000",
+            "Last_Location__Longitude__s": -65.00095,
+            "Last_Location__Latitude__s": 40.95669,
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c60/c60-01_tn.jpg",
+            "Garage__c": "@Garage8Ref"
+        }
+    ]
+}

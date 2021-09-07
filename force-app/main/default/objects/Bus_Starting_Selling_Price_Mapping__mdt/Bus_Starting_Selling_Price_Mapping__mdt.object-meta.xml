@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Mapping of Bus Max Capacity to Starting Selling Price</description>
+    <label>Bus Starting Selling Price Mapping</label>
+    <pluralLabel>Bus Starting Selling Price Mapping</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

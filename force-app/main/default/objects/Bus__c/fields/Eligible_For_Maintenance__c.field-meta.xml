@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Eligible_For_Maintenance__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(ISPICKVAL(Maximum_Capacity__c, &quot;60&quot;) &amp;&amp; ISPICKVAL(Current_Status__c, &quot;Ready For Use&quot;) &amp;&amp; NOT(ISNULL(Odometer_Reading__c)), 
+IF(ISNULL(Recorded_Odometer__c), Odometer_Reading__c &gt;= 5000, (Odometer_Reading__c - Recorded_Odometer__c) &gt;= 5000),
+false)</formula>
+    <label>Eligible For Maintenance?</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

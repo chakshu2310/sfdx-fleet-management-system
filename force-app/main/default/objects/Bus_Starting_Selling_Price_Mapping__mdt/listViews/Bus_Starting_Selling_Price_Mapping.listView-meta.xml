@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bus_Starting_Selling_Price_Mapping</fullName>
+    <columns>MasterLabel</columns>
+    <columns>Maximum_Capacity__c</columns>
+    <columns>Starting_Selling_Price__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>Bus Starting Selling Price Mapping</label>
+</ListView>

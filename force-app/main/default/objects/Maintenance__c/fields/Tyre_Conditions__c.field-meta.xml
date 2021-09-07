@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tyre_Conditions__c</fullName>
+    <externalId>false</externalId>
+    <label>Tyre Conditions</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Good</fullName>
+                <default>true</default>
+                <label>Good</label>
+            </value>
+            <value>
+                <fullName>Center Wear</fullName>
+                <default>false</default>
+                <label>Center Wear</label>
+            </value>
+            <value>
+                <fullName>Shoulder Wear</fullName>
+                <default>false</default>
+                <label>Shoulder Wear</label>
+            </value>
+            <value>
+                <fullName>Camber Wear</fullName>
+                <default>false</default>
+                <label>Camber Wear</label>
+            </value>
+            <value>
+                <fullName>Toe Wear</fullName>
+                <default>false</default>
+                <label>Toe Wear</label>
+            </value>
+            <value>
+                <fullName>Cupped Wear</fullName>
+                <default>false</default>
+                <label>Cupped Wear</label>
+            </value>
+            <value>
+                <fullName>Flat Spot Wear</fullName>
+                <default>false</default>
+                <label>Flat Spot Wear</label>
+            </value>
+            <value>
+                <fullName>High Speed Feathering</fullName>
+                <default>false</default>
+                <label>High Speed Feathering</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

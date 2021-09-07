@@ -1,0 +1,229 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus1_C06_Ref"
+            },
+            "Year__c": "2015",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "8000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01_tn.jpg",
+            "Garage__c": "@Garage1Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus2_C06_Ref"
+            },
+            "Year__c": "2010",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "20000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02_tn.jpg",
+            "Garage__c": "@Garage1Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus3_C06_Ref"
+            },
+            "Year__c": "2005",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "4000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03_tn.jpg",
+            "Garage__c": "@Garage2Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus4_C06_Ref"
+            },
+            "Year__c": "2000",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "15000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04_tn.jpg",
+            "Garage__c": "@Garage2Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus5_C06_Ref"
+            },
+            "Year__c": "1990",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "7500",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05_tn.jpg",
+            "Garage__c": "@Garage3Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus6_C06_Ref"
+            },
+            "Year__c": "1975",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "21000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01_tn.jpg",
+            "Garage__c": "@Garage3Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus7_C06_Ref"
+            },
+            "Year__c": "1970",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "50000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02_tn.jpg",
+            "Garage__c": "@Garage4Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus8_C06_Ref"
+            },
+            "Year__c": "2014",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "4900",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03_tn.jpg",
+            "Garage__c": "@Garage4Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus9_C06_Ref"
+            },
+            "Year__c": "1972",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "9500",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04_tn.jpg",
+            "Garage__c": "@Garage5Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus10_C06_Ref"
+            },
+            "Year__c": "2019",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "5001",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05_tn.jpg",
+            "Garage__c": "@Garage5Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus11_C06_Ref"
+            },
+            "Year__c": "1996",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "6500",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01_tn.jpg",
+            "Garage__c": "@Garage6Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus12_C06_Ref"
+            },
+            "Year__c": "2016",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "20000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-02_tn.jpg",
+            "Garage__c": "@Garage6Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus13_C06_Ref"
+            },
+            "Year__c": "1970",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "9000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-03_tn.jpg",
+            "Garage__c": "@Garage7Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus14_C06_Ref"
+            },
+            "Year__c": "2012",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "15000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-04_tn.jpg",
+            "Garage__c": "@Garage7Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus15_C06_Ref"
+            },
+            "Year__c": "1998",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : false,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "4500",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-05_tn.jpg",
+            "Garage__c": "@Garage8Ref"
+        }, {
+            "attributes": {
+                "type": "Bus__c",
+                "referenceId": "Bus16_C06_Ref"
+            },
+            "Year__c": "2004",
+            "Number_Of_Wheels__c": 8,
+            "Has_Air_Conditioning__c" : true,
+            "Current_Status__c": "Ready For Use",
+            "Maximum_Capacity__c": "6",
+            "Odometer_Reading__c": "21000",
+            "Image_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01.jpeg",
+            "Thumbnail_URL__c": "https://super-transport.s3.ap-south-1.amazonaws.com/buses/c06/c06-01_tn.jpg",
+            "Garage__c": "@Garage8Ref"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "sobject": "Garage__c",
+        "saveRefs": true,
+        "files": ["garages-data.json"]
+    }, {
+        "sobject": "Bus__c",
+        "resolveRefs": true,
+        "files": ["buses-c06-data.json", "buses-c12-data.json", "buses-c24-data.json", "buses-c36-data.json", "buses-c60-data.json"]
+    }
+]
